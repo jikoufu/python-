@@ -13,7 +13,8 @@
 ├── 03-Redis/
 ├── 04-Nginx/
 ├── 05-RabbitMQ/
-└── 06-Elasticsearch/
+├── 06-Elasticsearch/
+└── 99-中间件面试题/
 ```
 
 ## 为什么这个顺序
@@ -47,6 +48,11 @@
 - 锁机制
 - 主从复制
 - 与 Python（SQLAlchemy）集成
+- 本机 D 盘 MySQL 配置记录
+
+学习文件：
+
+- [02-MySQL/README.md](</D:/PycharmProjects/python后端学习/005-中间件学习/02-MySQL/README.md>)
 
 ### 03-Redis
 
@@ -57,6 +63,10 @@
 - 发布订阅
 - Redis Stream（轻量消息队列）
 - 与 Python（aioredis）集成
+
+学习文件：
+
+- [03-Redis/README.md](</D:/PycharmProjects/python后端学习/005-中间件学习/03-Redis/README.md>)
 
 ### 04-Nginx
 
@@ -78,6 +88,10 @@
 - 延迟队列
 - 与 Python（aio-pika）集成
 
+学习文件：
+
+- [05-RabbitMQ/README.md](</D:/PycharmProjects/python后端学习/005-中间件学习/05-RabbitMQ/README.md>)
+
 ### 06-Elasticsearch
 
 - 倒排索引原理
@@ -86,6 +100,15 @@
 - 中文分词（IK 分词器）
 - 与 Python（elasticsearch-py）集成
 - Kibana 可视化
+
+### 99-中间件面试题
+
+- MySQL、Redis、MQ、Nginx、Docker、Elasticsearch 必问题
+- 线上慢接口、中间件异常、数据不一致等综合排查题
+
+学习文件：
+
+- [99-中间件面试题/README.md](</D:/PycharmProjects/python后端学习/005-中间件学习/99-中间件面试题/README.md>)
 
 ## 推荐学习方式
 
