@@ -7,7 +7,8 @@
 ```text
 006-测试开发学习/
 ├── README.md
-└── 01-AI大模型测试工程师/
+├── 01-AI大模型测试工程师/
+└── 02-pytest-从入门到精通/
 ```
 
 ## 模块说明
@@ -28,7 +29,26 @@
 
 入口文件：
 
-[README.md](</D:/PycharmProjects/python后端学习/006-测试开发学习/01-AI大模型测试工程师/README.md>)
+[README.md](</D:/pythonCode/python-/006-测试开发学习/01-AI大模型测试工程师/README.md>)
+
+### 02-pytest-从入门到精通
+
+面向测试开发和后端自动化测试，重点包括：
+
+- pytest 基础入门
+- fixture 和参数化
+- mark、跳过、预期失败和用例筛选
+- 接口自动化测试
+- Mock 与测试隔离
+- 测试配置、日志、报告和覆盖率
+- 并发、失败重跑和 flaky 用例治理
+- CI/CD 集成
+- pytest Hook 和插件开发
+- 自动化测试框架封装
+
+入口文件：
+
+[README.md](</D:/pythonCode/python-/006-测试开发学习/02-pytest-从入门到精通/README.md>)
 
 ## 整理原则
 
